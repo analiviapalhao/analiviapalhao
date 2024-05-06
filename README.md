@@ -1,16 +1,15 @@
-### Hi there 👋
+### 🍓bem vindo ao meu perfil🍓
 
-<!--
-**analiviapalhao/analiviapalhao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Ana Livia
 
-Here are some ideas to get you started:
+- esse é meu primeiro projeto
+- estou desenvolvendo na linguagem java
+- perfil dedicado para o compartilhamento de meus projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### você pode entrar em contado comigo📧
+
+  0001113914282sp@al.educacao.sp.gov.br
+
+
+![](https://media1.tenor.com/m/9LUr-_obbVAAAAAC/hello-kitty.gif)
+  
